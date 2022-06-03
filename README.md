@@ -1,11 +1,13 @@
 # SynergyQRCodeMaker
-THE PROBLEM
+
+
+## **The Problem**
 
 The idea came when a client needed software that could create thousands of QR codes, so they could  stick them on fire extinguishers. Each QR code needed to be unique, so it could contain information like the expiration date of each fire extinguisher.
 
 By scanning each QR Code a unique web page could be opened with relevant information.
 
-##THE SOLUTION
+## **The Solution**
 
 We created a new application: “Synergy QR Code Maker”. It creates unlimited QR Codes by using your Microsoft Word application as a canvas. This allows you to edit the document like a normal Word document with all the tools that Microsoft Word provides.
 
@@ -33,9 +35,9 @@ QR Code Maker uses Microsoft Word as its canvas. You can select from multiple pa
 
 The free version of the application will allow you to create up to 100 QR Codes per day. If you prefer to get an unlimited version, please contact us via our Contacts form.
 
-##WHO NEEDS IT
+## **Who needs it**
 
 Anyone that needs to create large numbers of custom QR Codes that include URL links that point to a unique web page.
 
-##VIDEO PREVIEW
+## **Video Preview**
 
