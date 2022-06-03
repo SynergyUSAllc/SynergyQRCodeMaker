@@ -41,3 +41,10 @@ Anyone that needs to create large numbers of custom QR Codes that include URL li
 
 ## **Video Preview**
  [![Watch the video](https://user-images.githubusercontent.com/94911727/171857268-7aa68c21-2075-4d05-9320-893930b59c99.png)](https://youtu.be/bGzk0J80eDs)
+ 
+ 
+ SynergyQRCodeMaker was checked by VirusTotal and was found clean from malware. Visit the link below for further details: https://www.virustotal.com/gui/file/7b397e5757e57767676856878fb072322fa90751695bd05a12a9e50fd129af6e?nocache=1
+
+Visit our website for more free tools and other helpful products: https://synergy-usa-llc.com
+
+
