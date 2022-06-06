@@ -40,7 +40,7 @@ The free version of the application will allow you to create up to 100 QR Codes 
 Anyone that needs to create large numbers of custom QR Codes that include URL links that point to a unique web page.
 
 ## **Video Preview**
- [![Watch the video](https://user-images.githubusercontent.com/94911727/171857268-7aa68c21-2075-4d05-9320-893930b59c99.png)](https://youtu.be/bGzk0J80eDs)
+ [![Watch the video](https://user-images.githubusercontent.com/94911727/172152301-b85725c1-9a4b-4b89-8973-268eeb04f2a2.png)](https://youtu.be/MfzzJlkZ14o)
  
  
  
